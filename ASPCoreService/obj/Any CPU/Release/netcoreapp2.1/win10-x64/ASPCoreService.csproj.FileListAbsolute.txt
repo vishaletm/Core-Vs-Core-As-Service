@@ -1,0 +1,14 @@
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.exe
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.deps.json
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.runtimeconfig.json
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.runtimeconfig.dev.json
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.dll
+G:\Test projects\ASPCore\ASPCoreService\bin\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.pdb
+G:\Test projects\ASPCore\ASPCoreService\obj\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.csproj.CoreCompileInputs.cache
+G:\Test projects\ASPCore\ASPCoreService\obj\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.AssemblyInfoInputs.cache
+G:\Test projects\ASPCore\ASPCoreService\obj\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.AssemblyInfo.cs
+G:\Test projects\ASPCore\ASPCoreService\obj\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.dll
+G:\Test projects\ASPCore\ASPCoreService\obj\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.pdb
+G:\Test projects\ASPCore\ASPCoreService\obj\Any CPU\Release\netcoreapp2.1\win10-x64\ASPCoreService.csprojResolveAssemblyReference.cache

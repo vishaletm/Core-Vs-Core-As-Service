@@ -1,0 +1,12 @@
+G:\Test projects\ASPCore\ASPCore
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=ASPCore
+--content-root=G:\Test projects\ASPCore\ASPCore
+--file=G:\Test projects\ASPCore\ASPCore\Views\Home\About.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\Home\Contact.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\Home\Index.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\Shared\Error.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\Shared\_Layout.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\_ViewImports.cshtml
+--file=G:\Test projects\ASPCore\ASPCore\Views\_ViewStart.cshtml

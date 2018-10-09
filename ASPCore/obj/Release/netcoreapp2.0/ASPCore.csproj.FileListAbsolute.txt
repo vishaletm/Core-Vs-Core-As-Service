@@ -1,0 +1,11 @@
+G:\Test projects\ASPCore\ASPCore\bin\Release\netcoreapp2.0\ASPCore.deps.json
+G:\Test projects\ASPCore\ASPCore\bin\Release\netcoreapp2.0\ASPCore.runtimeconfig.json
+G:\Test projects\ASPCore\ASPCore\bin\Release\netcoreapp2.0\ASPCore.runtimeconfig.dev.json
+G:\Test projects\ASPCore\ASPCore\bin\Release\netcoreapp2.0\ASPCore.dll
+G:\Test projects\ASPCore\ASPCore\bin\Release\netcoreapp2.0\ASPCore.pdb
+G:\Test projects\ASPCore\ASPCore\obj\Release\netcoreapp2.0\ASPCore.csprojResolveAssemblyReference.cache
+G:\Test projects\ASPCore\ASPCore\obj\Release\netcoreapp2.0\ASPCore.csproj.CoreCompileInputs.cache
+G:\Test projects\ASPCore\ASPCore\obj\Release\netcoreapp2.0\ASPCore.AssemblyInfoInputs.cache
+G:\Test projects\ASPCore\ASPCore\obj\Release\netcoreapp2.0\ASPCore.AssemblyInfo.cs
+G:\Test projects\ASPCore\ASPCore\obj\Release\netcoreapp2.0\ASPCore.dll
+G:\Test projects\ASPCore\ASPCore\obj\Release\netcoreapp2.0\ASPCore.pdb
